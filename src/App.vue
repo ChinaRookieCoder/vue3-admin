@@ -23,7 +23,6 @@ ElNotification({
 
 <template>
   <el-config-provider :locale="zhCn">
-    333
     <router-view />
   </el-config-provider>
 </template>
